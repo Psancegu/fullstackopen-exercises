@@ -75,7 +75,7 @@ sequenceDiagram
 
 ## Exercise 0.6: New Note SPA
 
-```
+```mermaid
 sequenceDiagram
     participant browser
     participant server
